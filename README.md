@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto é um agregador de links para usar como cartão de visitas online.
+O Projeto é um agregador de links para usar como cartão de visitas online em homanagem para minha esposa.
 
 ## 🔖 Layout
 
