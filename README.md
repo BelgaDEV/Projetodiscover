@@ -1,4 +1,4 @@
-# Projetodiscover
+# Projetodescubra
   <h1 align="center"> Dra. Ingrid Lopes</h1>
 
 <p align="center">
