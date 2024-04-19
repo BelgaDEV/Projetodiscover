@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Ingrid Lopes" src=".github/preview.png" width="100%">
+  <img alt="Ingrid Lopes" src=".github/preview.png" width="35%">
 </p>
 
 ## 🚀 Tecnologias
